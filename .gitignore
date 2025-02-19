@@ -1,4 +1,10 @@
+#ignore Python Virtual Environment
 venv/
 __pycache__/
 *.sqlite3
 *.log
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
